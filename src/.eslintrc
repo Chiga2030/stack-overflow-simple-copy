@@ -103,10 +103,6 @@
       "error",
       "never"
     ],
-    "func-style": [
-      "error",
-      "expression"
-    ],
     "id-length": "error",
     "implicit-arrow-linebreak": [
       "error",
